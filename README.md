@@ -1,7 +1,8 @@
 # Project_2
 Simple API bank/wallet
 
-Task:
+### Task:
+
  develop a microservice for personal expenses management (wallet);
 
  the service should provide users with the following functionality:
