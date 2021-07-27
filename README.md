@@ -15,6 +15,7 @@ Simple API bank/wallet
 
 • obtaining a list of transactions for the selected period of time.
 
+
  the service must support different currencies;
 
  the service must maintain a write-off limit for one day for an individual
@@ -36,7 +37,10 @@ insufficient balance of funds, exceeding the write-off limit.
 
 Requirements:
  any development language, preference is given to Go;
+
  you can use any frameworks and libraries;
+
  data should be stored in the database of the candidate's choice;
+
  The solution must be provided as a github repository with a readme file from
 startup instructions and sample query / response examples.
